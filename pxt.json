@@ -1,0 +1,17 @@
+{
+    "name": "ds3231M",
+    "version": "0.0.1",
+    "description": "TomatoCube extension for the DS3231M Real-Time Clock, (Thanks Tinkercademy)",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "ds3231m.ts"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}
